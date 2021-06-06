@@ -1,0 +1,20 @@
+div.colleges
+{
+    display: block;
+    justify-content: center;
+    height: auto;
+    align-items: center;
+    width: auto;
+}
+
+div#about img
+{
+    width: 20%;
+    height: 20%;
+    border-radius: 20px;
+}
+
+div#about div.colleges p
+{
+    font-size: 20px;
+}
